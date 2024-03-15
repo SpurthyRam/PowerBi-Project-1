@@ -3,7 +3,7 @@ As part of the October month codebaiscs resume challenge, I have performed data 
 
 
 
-Live Dashboard [Link][(https://www.novypro.com/project/atliq-mart---supply-chain-analysis)](https://www.novypro.com/blog_published/atilq-mart)
+Live Dashboard [(https://www.novypro.com/project/atliq-mart---supply-chain-analysis)](https://www.novypro.com/blog_published/atilq-mart)
 
 
 ## Problem statement
