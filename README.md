@@ -47,7 +47,7 @@ These insights aim to provide a deeper understanding of delivery service perform
 ## Dashboard 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
+  <img width="341" alt="Screenshot 2024-03-15 at 1 58 49 PM" src="https://github.com/SpurthyRam/PowerBi-Project-1/assets/68895924/0d609579-dde4-4567-a297-7f4053d06b3e">
 </p>
 
 ## Some Major Insights 
