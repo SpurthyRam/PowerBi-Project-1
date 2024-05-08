@@ -38,6 +38,7 @@ Enhance Customer Experience: Sustain the high-quality service AtliQ is known for
 
 ## Dashboard 
 
-
+<img width="1039" alt="Screenshot 2024-03-28 at 10 58 18 AM" src="https://github.com/SpurthyRam/PowerBi-Project-1/assets/68895924/6b912224-8d7b-44f5-9c36-00f8271b19e8">
+<img width="1028" alt="Screenshot 2024-03-28 at 10 58 52 AM" src="https://github.com/SpurthyRam/PowerBi-Project-1/assets/68895924/2efbced2-04c6-47b3-887d-f97b3f2cdbd9">
 
 
