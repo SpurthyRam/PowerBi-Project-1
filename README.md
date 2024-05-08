@@ -34,7 +34,7 @@ Enhance Customer Experience: Sustain the high-quality service AtliQ is known for
 
 ## Data Model 
 
-
+<img width="1107" alt="Screenshot 2024-05-08 at 2 32 28 PM" src="https://github.com/SpurthyRam/PowerBi-Project-1/assets/68895924/017e086d-f981-463f-8ad4-417e030306c9">
 
 ## Dashboard 
 
