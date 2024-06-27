@@ -2,7 +2,7 @@
 
 
 
-Live Dashboard [(https://www.novypro.com/project/atliq-mart---supply-chain-analysis)](https://www.novypro.com/blog_published/atilq-mart)](https://project.novypro.com/eXz1eD)
+Live Dashboard https://app.powerbi.com/view?r=eyJrIjoiYWRmYjljMzItNDQzNC00ZDRhLWI2NzEtN2MzMjdmNjdmZDRkIiwidCI6IjdhZmI5ZTIyLTkzMDgtNDE4Ni04ZTI5LWVhMjMxZmYzYmFmNyIsImMiOjN9
 
 
 ## Problem statement
